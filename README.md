@@ -1,8 +1,8 @@
 # calculator
-> Calculator in Java with Spring Boot and Thymeleaf 
+> Calculator in Java Spring with Spring Boot and Thymeleaf 
 
 ## General info
-This simple application allow to execute basic mathematical operations. It was created to pactise Thymeleaf and Spring Boot.
+This simple application allow to execute basic mathematical operations. It was created to practise Thymeleaf and Spring Boot.
 
 ## Technologies
 * Maven
